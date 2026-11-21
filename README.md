@@ -6,6 +6,23 @@ Plataformas 2D de fantasía andina, inspirado en los andenes de Machu Picchu. Co
 
 Todo el juego cabe en un único archivo `index.html`, sin dependencias ni proceso de compilación. Las ilustraciones van incrustadas como WebP en base64, y la música y los efectos de sonido se sintetizan en tiempo real con la Web Audio API.
 
+![Menú principal](capturas/01-menu.jpg)
+
+---
+
+## Capturas
+
+| | |
+|---|---|
+| ![Intro: Véskar aparece sobre los andenes](capturas/02-intro.jpg) | ![Fase 1: Los andenes del alba, cargando el bolo](capturas/03-andenes.jpg) |
+| **Intro**: Véskar se presenta ante Killa y Chaska | **Fase 1**: Los andenes del alba, cargando el bolo |
+| ![Fase 2: El bosque de queñuas](capturas/04-bosque.jpg) | ![Fase 3: El santuario de la coca](capturas/05-santuario.jpg) |
+| **Fase 2**: Chaska escupe a un espíritu del bosque | **Fase 3**: El santuario de la coca |
+| ![El chamán lee las hojas de coca](capturas/06-chaman.jpg) | ![Fase 4: La cima de Machu Picchu](capturas/07-cima.jpg) |
+| **El presagio**: el chamán lee las hojas de coca | **Fase 4**: cóndores y guardianes en la cima |
+| ![Fase 5: pulso de la chacana](capturas/08-portal.jpg) | ![Jefe final: Véskar](capturas/09-veskar.jpg) |
+| **Fase 5**: el pulso de la chacana contra las calaveras | **Jefe final**: Véskar junto a la Puerta del Sol |
+
 ---
 
 ## Cómo jugar
