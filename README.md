@@ -6,7 +6,9 @@ Plataformas 2D de fantasía andina, inspirado en los andenes de Machu Picchu. Co
 
 Todo el juego cabe en un único archivo `index.html`, sin dependencias ni proceso de compilación. Las ilustraciones van incrustadas como WebP en base64, y la música y los efectos de sonido se sintetizan en tiempo real con la Web Audio API.
 
-![Menú principal](capturas/01-menu.jpg)
+### 🎮 [Jugar ahora en el navegador](https://solman28.github.io/devorador-del-amanecer/)
+
+[![Menú principal](capturas/01-menu.jpg)](https://solman28.github.io/devorador-del-amanecer/)
 
 ---
 
@@ -29,7 +31,10 @@ Todo el juego cabe en un único archivo `index.html`, sin dependencias ni proces
 
 ### Ejecutarlo
 
-Abre `index.html` en un navegador moderno (Chrome, Edge, Firefox o Safari). No hace falta servidor.
+La forma más fácil es jugar en línea, publicado con GitHub Pages:
+**https://solman28.github.io/devorador-del-amanecer/**
+
+Para jugar en local, abre `index.html` en un navegador moderno (Chrome, Edge, Firefox o Safari). No hace falta servidor.
 
 Si prefieres servirlo en local:
 
